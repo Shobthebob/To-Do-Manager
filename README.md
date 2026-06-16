@@ -26,7 +26,7 @@
   <img src="./assets/extensionDisplay.png" width="800">
 </p>
 
-## 🚀 Project Description
+## Project Description
 
 **To-Do Manager** is a fully-integrated task management extension for Visual Studio Code that transforms your editor into a smart productivity workspace. Designed by a developer for his fellow developers in mind, this extension introduces a clean and responsive sidebar UI for managing tasks without breaking your coding flow.
 
@@ -34,7 +34,7 @@ Whether you're tracking bugs, planning features, or just managing your personal 
 
 Whether you’re working solo or as part of a larger team, To-Do Manager adapts to your process, allowing you to focus less on managing tasks and more on completing them.
 
-## ✨ Key Features
+## Key Features
 
 Here's a breakdown of some of the main functionalities you would find with this extension.
 
@@ -42,57 +42,55 @@ Here's a breakdown of some of the main functionalities you would find with this 
   <table>
     <tr>
       <td align="center">
-        <b>➕ Adding</b><br>
+        <b>Adding</b><br>
         <img src="./assets/adding.gif" alt="adding.gif" width="320" height="auto">
       </td>
       <td align="center">
-        <b>✏️ Editing</b><br>
+        <b>Editing</b><br>
         <img src="./assets/editing.gif" alt="editing.gif" width="320" height="auto">
       </td>
     </tr>
     <tr>
       <td align="center">
-        <b>📌 Pinning</b><br>
+        <b>Pinning</b><br>
         <img src="./assets/pinning.gif" alt="pinning.gif" width="320" height="auto">
       </td>
       <td align="center">
-        <b>✅ Completing</b><br>
+        <b>Completing</b><br>
         <img src="./assets/completing.gif" alt="completing.gif" width="320" height="auto">
       </td>
     </tr>
       <tr>
       <td align="center" colspan="2">
-        <b>🗑️ Deletion</b><br>
+        <b>Deletion</b><br>
         <img src="./assets/deleting.gif" alt="deleting.gif" width="550" height="auto">
       </td>
     </tr>
     <tr>
       <td align="center">
-        <b>📁 Import / Export</b><br>
+        <b>Import / Export</b><br>
         <img src="./assets/importExport.gif" alt="import/export.gif" width="320" height="auto">
       </td>
       <td align="center">
-        <b>🧹 Clear All</b><br>
+        <b>Clear All</b><br>
         <img src="./assets/clearAll.gif" alt="clearAll.gif" width="320" height="auto">
       </td>
     </tr>
   </table>
 </div>
 
-## 🧠 What's New in v1.0.5
+## What's New in v1.0.5
 
 The following updates were introduced in version 1.0.5 to improve functionality and performance:
 
 | Capability | Description |
 |------------|-------------|
-| 📁 Import/Export Pipeline | Backup and migrate task sessions using human-readable JSON files. |
-| 🔁 Duplicate Resolution | Automatic prevention of same-task entry — including edge cases on restore/undo. |
-| 📥 Restore on Reload | All task state is preserved between sessions using `workspaceState`. |
-| 🧹 Clear All Context | One-click deletion of all completed tasks |
+| Import/Export Pipeline | Backup and migrate task sessions using human-readable JSON files. |
+| Duplicate Resolution | Automatic prevention of same-task entry — including edge cases on restore/undo. |
+| Restore on Reload | All task state is preserved between sessions using `workspaceState`. |
+| Clear All Context | One-click deletion of all completed tasks |
 
----
-
-## 🛠 Installation
+## Installation
 
 1. Open **Visual Studio Code**
 2. Go to the Extensions panel (`Ctrl+Shift+X`)
@@ -101,6 +99,6 @@ The following updates were introduced in version 1.0.5 to improve functionality 
 
 Or install directly via [Visual Studio Marketplace →](https://marketplace.visualstudio.com/items?itemName=ShoubhitJamadhiar.to-do-manager)
 
-## 📄 License
+## License
 
 This project is distributed under the [GPL-3.0 License](https://github.com/Shobthebob/To-Do-List-Extension-VS-Code/blob/main/LICENSE).
